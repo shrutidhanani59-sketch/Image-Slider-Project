@@ -1,7 +1,7 @@
 # 🚀 Image Slider Project
 
-***This ia a image slider project . This project build  HTML  ,  css  , and javaScript  , add 5 imges in this project. Add  Next and Previous button .
-***
+This ia a image slider project . This project build  HTML  ,  css  , and javaScript  , add 5 imges in this project. Add  Next and Previous button .
+
 
 ##  🛠️ Technologies Used
 
@@ -13,11 +13,24 @@
 
 ## 📂 Project Structure
 
-"Image Slider Project"
+Image Slider Project
 
-"index.HTML"
+index.HTML
 
-"style.css"
+style.css
 
-"script.js" 
+script.js
 
+img1.jpg
+
+img2.jpg
+
+img3.jpg
+
+img4.jpg
+
+img5.jpg
+
+## 📸 Screenshot
+
+Screen Short.png
