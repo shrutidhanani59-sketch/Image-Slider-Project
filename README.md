@@ -33,4 +33,4 @@ img5.jpg
 
 ## 📸 Screenshot
 
-Screen Short.png
+![Project Screenshot](Screen Shot.png)
