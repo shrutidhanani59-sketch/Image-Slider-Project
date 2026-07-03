@@ -34,3 +34,10 @@ img5.jpg
 ## 📸 Screenshot
 
 ![Project Screenshot](Screen%20Short.png)
+
+## 🎥 Project Demo
+
+[▶️ Watch Demo Video](video1592336391.mp4)
+
+
+
