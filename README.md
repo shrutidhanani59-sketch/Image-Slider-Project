@@ -37,7 +37,7 @@ img5.jpg
 
 ## 🎥 Project Demo
 
-[video1592336391.mp4]
+[▶️ Watch Demo Video](video1592336391.mp4)
 
 
 
