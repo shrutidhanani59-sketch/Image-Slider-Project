@@ -38,5 +38,5 @@ img5.jpg
 ## 🎥 Project Demo
 
 [▶️ Watch Demo Video]
-https://github.com/shrutidhanani59-sketch/Image-Slider-Project/blob/main/video1592336391.mp4](https://drive.google.com/file/d/1mxTGibQ3BiB29KxtSfOqhRXCSJILaeZi/view?usp=sharing
+https://drive.google.com/file/d/1mxTGibQ3BiB29KxtSfOqhRXCSJILaeZi/view?usp=sharing
 
